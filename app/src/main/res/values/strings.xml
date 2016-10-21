@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigationPlayground</string>
+    <string name="home">Home</string>
+    <string name="top_news">Top News</string>
+    <string name="my_news">My News</string>
+
+    <string name="go_to_home">Go to Home</string>
+    <string name="go_to_top_news">Go to Top News</string>
+    <string name="go_to_my_news">Go to My News</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottomHome"
+        android:icon="@drawable/icon_home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/bottomTopNews"
+        android:icon="@drawable/icon_world"
+        android:title="@string/top_news" />
+
+    <item
+        android:id="@+id/bottomMyNews"
+        android:enabled="true"
+        android:icon="@drawable/icon_user"
+        android:title="@string/my_news" />
+</menu>
